@@ -6,7 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
 
-    // baseUrl: "https://rahulshettyacademy.com/AutomationPractice/"
+    baseUrl: "https://rahulshettyacademy.com/AutomationPractice/"
 
 
 
